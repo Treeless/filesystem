@@ -1,0 +1,7 @@
+C:\Users\Treeless\Dropbox\COIS-2020h-Assignment3\FileSystem\FileSystemTesting\bin\Debug\FileSystemTesting.dll
+C:\Users\Treeless\Dropbox\COIS-2020h-Assignment3\FileSystem\FileSystemTesting\bin\Debug\FileSystemTesting.pdb
+C:\Users\Treeless\Dropbox\COIS-2020h-Assignment3\FileSystem\FileSystemTesting\bin\Debug\FileSystem.exe
+C:\Users\Treeless\Dropbox\COIS-2020h-Assignment3\FileSystem\FileSystemTesting\bin\Debug\FileSystem.pdb
+C:\Users\Treeless\Dropbox\COIS-2020h-Assignment3\FileSystem\FileSystemTesting\obj\Debug\FileSystemTesting.csprojResolveAssemblyReference.cache
+C:\Users\Treeless\Dropbox\COIS-2020h-Assignment3\FileSystem\FileSystemTesting\obj\Debug\FileSystemTesting.dll
+C:\Users\Treeless\Dropbox\COIS-2020h-Assignment3\FileSystem\FileSystemTesting\obj\Debug\FileSystemTesting.pdb

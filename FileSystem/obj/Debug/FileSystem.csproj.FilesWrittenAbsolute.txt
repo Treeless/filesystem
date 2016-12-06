@@ -1,0 +1,6 @@
+/home/Fenrir/Dropbox/COIS-2020h-Assignment3/FileSystem/FileSystem/obj/Debug/.NETFramework,Version=v4.5.2.AssemblyAttribute.cs
+/home/Fenrir/Dropbox/COIS-2020h-Assignment3/FileSystem/FileSystem/bin/Debug/FileSystem.exe.config
+/home/Fenrir/Dropbox/COIS-2020h-Assignment3/FileSystem/FileSystem/bin/Debug/FileSystem.exe.mdb
+/home/Fenrir/Dropbox/COIS-2020h-Assignment3/FileSystem/FileSystem/bin/Debug/FileSystem.exe
+/home/Fenrir/Dropbox/COIS-2020h-Assignment3/FileSystem/FileSystem/obj/Debug/FileSystem.exe
+/home/Fenrir/Dropbox/COIS-2020h-Assignment3/FileSystem/FileSystem/obj/Debug/FileSystem.exe.mdb
